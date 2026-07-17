@@ -39,7 +39,7 @@ Tools multifungsi untuk scanning, exploit, dan enumerasi website. Support berbag
 
 ## 🚀 Cara Install
 ```bash
-git clone https://github.com/your-repo/tools.git
+git clone https://github.com/Fathir95/toolsgg
 cd tools
 pip install -r requirements.txt
 python main.py
